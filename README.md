@@ -84,7 +84,7 @@ PushApp/
 > Симулятор камеру не даёт — Vision-трекинг тестируется **только на реальном устройстве**.
 
 ```bash
-git clone https://github.com/faridhuse40-star/push-app-for-ios.git
+git clone https://github.com/DreyzeDev/push-app-for-ios.git
 cd push-app-for-ios
 open PushApp.xcodeproj
 ```
